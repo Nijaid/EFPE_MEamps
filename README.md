@@ -28,7 +28,7 @@ The full list of series limits within each $j$ can be found with `recoverConvLis
 The list for $m=0$ is simple, but for $m=2$ is intricate due to the nested limits involved.
 The structure for the latter is as follows, given an eccentricity:
 
-{ {$j$ limits}, {$s$ limits for each $j$}, {$k$ limits for $\mathcal{P}^{mW}_s$ and $\mathcal{K}^{lm}_{s-j}$ at each $(s,j)$ pair}}
+{{ $j$ limits }, { $s$ limits for each $j$ }, { $k$ limits for $\mathcal{P}^{mW}_s$ and $\mathcal{K}^{lm}_{s-j}$ at each $(s,j)$ pair }}
 
 For example, for $e=0.01$,
 
