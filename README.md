@@ -1,2 +1,2 @@
-# EFPE_MEamps
+# EccentricAmplitudes
 Eccentric amplitudes for a inspiraling black hole binary
